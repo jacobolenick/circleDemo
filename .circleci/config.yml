@@ -18,3 +18,10 @@ jobs:
 
     steps:
       - checkout
+
+      #Install Dependencies 
+      - run:
+        name: Install Dependencies
+        command: npm install
+
+        
