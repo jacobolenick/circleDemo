@@ -22,4 +22,4 @@ If not, you can use `curl` to perform HTTP operations:
 
 `curl -d "username=user&password=pass" -X POST http://localhost:3000/login`
 
-This example request should result in a 401 Unathorized response.
+This example request should result in a 401 Unathorized response
