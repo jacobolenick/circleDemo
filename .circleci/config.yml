@@ -21,7 +21,6 @@ jobs:
 
       #Install Dependencies 
       - run:
-        name: Install Dependencies
-        command: npm install
+          name: Install Dependencies
+          command: npm install
 
-        
